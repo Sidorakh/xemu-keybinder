@@ -1,0 +1,102 @@
+[
+    {
+        "name": "A",
+        "key": "a"
+    },
+    {
+        "name": "B",
+        "key": "b"
+    },
+    {
+        "name": "X",
+        "key": "x"
+    },
+    {
+        "name": "Y",
+        "key": "y"
+    },
+    {
+        "name": "DPad Left",
+        "key": "dpad_left"
+    },
+    {
+        "name": "DPad Up",
+        "key": "dpad_up"
+    },
+    {
+        "name": "DPad Right",
+        "key": "dpad_right"
+    },
+    {
+        "name": "DPad Down",
+        "key": "dpad_down"
+    },
+    {
+        "name": "Back",
+        "key": "back"
+    },
+    {
+        "name": "Start",
+        "key": "start"
+    },
+    {
+        "name": "Guide",
+        "key": "guide"
+    },
+    {
+        "name": "White",
+        "key": "white"
+    },
+    {
+        "name": "Black",
+        "key": "black"
+    },
+    {
+        "name": "Left Stick Button",
+        "key": "lstick_btn"
+    },
+    {
+        "name": "Left Stick Up",
+        "key": "lstick_up"
+    },
+    {
+        "name": "Left Stick Left",
+        "key": "lstick_left"
+    },
+    {
+        "name": "Left Stick Right",
+        "key": "lstick_right"
+    },
+    {
+        "name": "Left Stick Down",
+        "key": "lstick_down"
+    },
+    {
+        "name": "Right Stick Button",
+        "key": "rstick_btn"
+    },
+    {
+        "name": "Right Stick Up",
+        "key": "rstick_up"
+    },
+    {
+        "name": "Right Stick Left",
+        "key": "rstick_left"
+    },
+    {
+        "name": "Right Stick Right",
+        "key": "rstick_right"
+    },
+    {
+        "name": "Right Stick Down",
+        "key": "rstick_down"
+    },
+    {
+        "name": "Left Trigger",
+        "key": "ltrigger"
+    },
+    {
+        "name": "Right Trigger",
+        "key": "rtrigger"
+    }
+]

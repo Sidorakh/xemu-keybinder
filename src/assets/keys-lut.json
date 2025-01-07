@@ -1,0 +1,457 @@
+[
+    {
+        "name": "A",
+        "keycode": 65,
+        "sdl": 4
+    },
+    {
+        "name": "B",
+        "keycode": 66,
+        "sdl": 5
+    },
+    {
+        "name": "C",
+        "keycode": 67,
+        "sdl": 6
+    },
+    {
+        "name": "D",
+        "keycode": 68,
+        "sdl": 7
+    },
+    {
+        "name": "E",
+        "keycode": 69,
+        "sdl": 8
+    },
+    {
+        "name": "F",
+        "keycode": 70,
+        "sdl": 9
+    },
+    {
+        "name": "G",
+        "keycode": 71,
+        "sdl": 10
+    },
+    {
+        "name": "H",
+        "keycode": 72,
+        "sdl": 11
+    },
+    {
+        "name": "I",
+        "keycode": 73,
+        "sdl": 12
+    },
+    {
+        "name": "J",
+        "keycode": 74,
+        "sdl": 13
+    },
+    {
+        "name": "K",
+        "keycode": 75,
+        "sdl": 14
+    },
+    {
+        "name": "L",
+        "keycode": 76,
+        "sdl": "15"
+    },
+    {
+        "name": "M",
+        "keycode": 77,
+        "sdl": 16
+    },
+    {
+        "name": "N",
+        "keycode": 78,
+        "sdl": 17
+    },
+    {
+        "name": "O",
+        "keycode": 79,
+        "sdl": 18
+    },
+    {
+        "name": "P",
+        "keycode": 80,
+        "sdl": 19
+    },
+    {
+        "name": "Q",
+        "keycode": 81,
+        "sdl": 20
+    },
+    {
+        "name": "R",
+        "keycode": 82,
+        "sdl": 21
+    },
+    {
+        "name": "S",
+        "keycode": 83,
+        "sdl": 22
+    },
+    {
+        "name": "T",
+        "keycode": 84,
+        "sdl": 23
+    },
+    {
+        "name": "U",
+        "keycode": 85,
+        "sdl": 24
+    },
+    {
+        "name": "V",
+        "keycode": 86,
+        "sdl": 25
+    },
+    {
+        "name": "W",
+        "keycode": 87,
+        "sdl": 26
+    },
+    {
+        "name": "X",
+        "keycode": 88,
+        "sdl": 27
+    },
+    {
+        "name": "Y",
+        "keycode": 89,
+        "sdl": 28
+    },
+    {
+        "name": "Z",
+        "keycode": 90,
+        "sdl": 29
+    },
+    {
+        "name": "1",
+        "keycode": 49,
+        "sdl": 30
+    },
+    {
+        "name": "2",
+        "keycode": 50,
+        "sdl": 31
+    },
+    {
+        "name": "3",
+        "keycode": 51,
+        "sdl": 32
+    },
+    {
+        "name": "4",
+        "keycode": 52,
+        "sdl": 33
+    },
+    {
+        "name": "5",
+        "keycode": 53,
+        "sdl": 34
+    },
+    {
+        "name": "6",
+        "keycode": 54,
+        "sdl": 35
+    },
+    {
+        "name": "7",
+        "keycode": 55,
+        "sdl": 36
+    },
+    {
+        "name": "8",
+        "keycode": 56,
+        "sdl": 37
+    },
+    {
+        "name": "9",
+        "keycode": 57,
+        "sdl": 38
+    },
+    {
+        "name": "0",
+        "keycode": 48,
+        "sdl": 39
+    },
+    {
+        "name": "Return",
+        "keycode": 13,
+        "sdl": 40
+    },
+    {
+        "name": "Escape",
+        "keycode": 27,
+        "sdl": 41
+    },
+    {
+        "name": "Backspace",
+        "keycode": 8,
+        "sdl": 42
+    },
+    {
+        "name": "Tab",
+        "keycode": 9,
+        "sdl": 43
+    },
+    {
+        "name": "Space",
+        "keycode": 32,
+        "sdl": 44
+    },
+    {
+        "name": "-",
+        "keycode": 189,
+        "sdl": 45
+    },
+    {
+        "name": "=",
+        "keycode": 187,
+        "sdl": 46
+    },
+    {
+        "name": "[",
+        "keycode": 91,
+        "sdl": 47
+    },
+    {
+        "name": "]",
+        "keycode": 93,
+        "sdl": 48
+    },
+    {
+        "name": "\\",
+        "keycode": 92,
+        "sdl": 49
+    },
+    {
+        "name": ";",
+        "keycode": 59,
+        "sdl": 51
+    },
+    {
+        "name": ",",
+        "keycode": 44,
+        "sdl": 54
+    },
+    {
+        "name": ".",
+        "keycode": 46,
+        "sdl": 55
+    },
+    {
+        "name": "/",
+        "keycode": 47,
+        "sdl": 56
+    },
+    {
+        "name": "Caps Lock",
+        "keycode": 20,
+        "sdl": 57
+    },
+    {
+        "name": "F1",
+        "keycode": 112,
+        "sdl": 58
+    },
+    {
+        "name": "F2",
+        "keycode": 113,
+        "sdl": 59
+    },
+    {
+        "name": "F3",
+        "keycode": 114,
+        "sdl": 60
+    },
+    {
+        "name": "F4",
+        "keycode": 115,
+        "sdl": 61
+    },
+    {
+        "name": "F5",
+        "keycode": 116,
+        "sdl": 62
+    },
+    {
+        "name": "F6",
+        "keycode": 117,
+        "sdl": 63
+    },
+    {
+        "name": "F7",
+        "keycode": 118,
+        "sdl": 64
+    },
+    {
+        "name": "F8",
+        "keycode": 119,
+        "sdl": 65
+    },
+    {
+        "name": "F9",
+        "keycode": 120,
+        "sdl": 66
+    },
+    {
+        "name": "F10",
+        "keycode": 121,
+        "sdl": 67
+    },
+    {
+        "name": "F11",
+        "keycode": 122,
+        "sdl": 68
+    },
+    {
+        "name": "F12",
+        "keycode": 123,
+        "sdl": 69
+    },
+    {
+        "name": "Scroll Lock",
+        "keycode": 145,
+        "sdl": 71
+    },
+    {
+        "name": "Insert",
+        "keycode": 45,
+        "sdl": 73
+    },
+    {
+        "name": "Home",
+        "keycode": 36,
+        "sdl": 74
+    },
+    {
+        "name": "Page Up",
+        "keycode": 33,
+        "sdl": 75
+    },
+    {
+        "name": "Delete",
+        "keycode": 46,
+        "sdl": 46
+    },
+    {
+        "name": "End",
+        "keycode": 35,
+        "sdl": 77
+    },
+    {
+        "name": "Page Down",
+        "keycode": 34,
+        "sdl": 78
+    },
+    {
+        "name": "Right Arrow",
+        "keycode": 39,
+        "sdl": 79
+    },
+    {
+        "name": "Left Arrow",
+        "keycode": 37,
+        "sdl": 80
+    },
+    {
+        "name": "Down Arrow",
+        "keycode": 40,
+        "sdl": 81
+    },
+    {
+        "name": "Up Arrow",
+        "keycode": 38,
+        "sdl": 82
+    },
+    {
+        "name": "Num Lock",
+        "keycode": 144,
+        "sdl": 83
+    },
+    {
+        "name": "Numpad /",
+        "keycode": 111,
+        "sdl": 84
+    },
+    {
+        "name": "Numpad *",
+        "keycode": 106,
+        "sdl": 85
+    },
+    {
+        "name": "Numpad -",
+        "keycode": 109,
+        "sdl": 86
+    },
+    {
+        "name": "Numpad +",
+        "keycode": 107,
+        "sdl": 87
+    },
+    {
+        "name": "Numpad Enter",
+        "keycode": -13,
+        "sdl": -88
+    },
+    {
+        "name": "Numpad 1",
+        "keycode": 97,
+        "sdl": 89
+    },
+    {
+        "name": "Numpad 2",
+        "keycode": 98,
+        "sdl": 90
+    },
+    {
+        "name": "Numpad 3",
+        "keycode": 99,
+        "sdl": 91
+    },
+    {
+        "name": "Numpad 4",
+        "keycode": 100,
+        "sdl": 92
+    },
+    {
+        "name": "Numpad 5",
+        "keycode": 101,
+        "sdl": 93
+    },
+    {
+        "name": "Numpad 6",
+        "keycode": 102,
+        "sdl": 94
+    },
+    {
+        "name": "Numpad 7",
+        "keycode": 103,
+        "sdl": 95
+    },
+    {
+        "name": "Numpad 8",
+        "keycode": 104,
+        "sdl": 96
+    },
+    {
+        "name": "Numpad 9",
+        "keycode": 105,
+        "sdl": 97
+    },
+    {
+        "name": "Numpad 0",
+        "keycode": 96,
+        "sdl": 98
+    },
+    {
+        "name": "Numpad .",
+        "keycode": 110,
+        "sdl": 99
+    }
+]
